@@ -40,8 +40,8 @@ function findUnusedSource(usedSources: string[]): string {
 }
 
 const initialMapState: MapState = {
-  center: [15, 50], // Roughly center of Europe
-  zoom: 4, // Good zoom level to see most of Europe
+  center: [6.9789, 4.8047], // Rivers State University campus
+  zoom: 17,
   bearing: 0,
   pitch: 0,
 };
